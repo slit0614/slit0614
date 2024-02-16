@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/MySQL-003545?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=Ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <br>
 <br>
 <p>⚔️ Tools ⚔️</p>
